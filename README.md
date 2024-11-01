@@ -1,18 +1,18 @@
 # Scientific Publications – 18
 
-1)	M. Brodrecht, B. Kumari, **_**_**_A. S. Lilly Thankamony_**_**_**, H. Breitzke, T. Gutmann* G. Buntkowsky, Structural insights into peptides bound to the surface of silica nanopores, Chemistry Eur. J. 25, (2019), 5214 –5221, 
+1)	M. Brodrecht, B. Kumari, **_A. S. Lilly Thankamony_**, H. Breitzke, T. Gutmann* G. Buntkowsky, Structural insights into peptides bound to the surface of silica nanopores, Chemistry Eur. J. 25, (2019), 5214 –5221, 
 https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201805480
 
-2)	**_**_**_A. S. Lilly Thankamony_**_**_**, J. Wittmann, M. Kaushik, B. Corzilius, Dynamic nuclear polarization for sensitivity enhancement in modern solid-state NMR, Prog. Nucl. Magn. Reson. Spec., (2017) 102–103, 120–195
+2)	**_A. S. Lilly Thankamony_**, J. Wittmann, M. Kaushik, B. Corzilius, Dynamic nuclear polarization for sensitivity enhancement in modern solid-state NMR, Prog. Nucl. Magn. Reson. Spec., (2017) 102–103, 120–195
 https://www.sciencedirect.com/science/article/pii/S0079656517300201
 
-3)	 **_**_**_A. S. Lilly Thankamony_**_**_**, S. Knoche, A. Drochner, A- Pandurang Jagtap, S. Th. Sigurdsson, H. Vogel, B.J.M. Etzold, T. Gutmann, Gerd Buntkowsky, J.Phys.Chem. C, (2017), 121, 20857–20864 “Characterization of V-Mo-W Mixed Oxide Catalyst Surface Species by 51V Solid-State Dynamic Nuclear Polarization NMR” 4.189
+3)	 **_A. S. Lilly Thankamony_**, S. Knoche, A. Drochner, A- Pandurang Jagtap, S. Th. Sigurdsson, H. Vogel, B.J.M. Etzold, T. Gutmann, Gerd Buntkowsky, J.Phys.Chem. C, (2017), 121, 20857–20864 “Characterization of V-Mo-W Mixed Oxide Catalyst Surface Species by 51V Solid-State Dynamic Nuclear Polarization NMR” 4.189
 https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06761
 
-4)	H. Nagashima, **_**_A. S. Lilly Thankamony_**_**, J. Trebosc, F. Pourpoint, O. Lafon, J-P. Amoureux, Solid State Nucl Magn Reson. (2017), 84, 216-226 “gamma-encoded hetero-nuclear correlation between spin-1/2 and quadrupolar nuclei” impact- 1.846 ISSN 0926-2040
+4)	H. Nagashima, **_A. S. Lilly Thankamony_**, J. Trebosc, F. Pourpoint, O. Lafon, J-P. Amoureux, Solid State Nucl Magn Reson. (2017), 84, 216-226 “gamma-encoded hetero-nuclear correlation between spin-1/2 and quadrupolar nuclei” impact- 1.846 ISSN 0926-2040
 https://www.ncbi.nlm.nih.gov/pubmed/28666574
 
-5)	J Liu, P. Braga-Groszewicz, Q. Wen, **_**_A. S. Lilly Thankamony_**_**, B.Zhang, U. Kunz, G. Sauer, Y. Xu, T. Gutmann, G. Buntkowsky, J.Phys.Chem. C, (2017), 121, 17409–17416 Revealing Structure Reactivity Relationships in heterogenized Dirhodium Catalysts by Solid State
+5)	J Liu, P. Braga-Groszewicz, Q. Wen, **_A. S. Lilly Thankamony_**, B.Zhang, U. Kunz, G. Sauer, Y. Xu, T. Gutmann, G. Buntkowsky, J.Phys.Chem. C, (2017), 121, 17409–17416 Revealing Structure Reactivity Relationships in heterogenized Dirhodium Catalysts by Solid State
 NMR Techniques 
 https://pubs.acs.org/doi/10.1021/acs.jpcc.7b06807
 
@@ -20,14 +20,14 @@ https://pubs.acs.org/doi/10.1021/acs.jpcc.7b06807
 “Dynamic Nuclear Polarization enhanced 15N and 29Si NMR of nitridated fibrous silica (KCC-1) nanocatalysts” 12.959 ISSN: 1433-7851
 http://onlinelibrary.wiley.com/doi/10.1002/anie.201406463/epdf
  
-7)	J.Liu, C. Fasel, P. Braga-Groszewicz, N. Rothermel, **_**_A. S. Lilly Thankamony_**_**, G. Sauer, Y.Xu, T. Gutmann, G. Buntkowsky, Catal. Sci. Technol., (2016), 6, 7830-7840
+7)	J.Liu, C. Fasel, P. Braga-Groszewicz, N. Rothermel, **_A. S. Lilly Thankamony_**, G. Sauer, Y.Xu, T. Gutmann, G. Buntkowsky, Catal. Sci. Technol., (2016), 6, 7830-7840
 “Heterogeneous Self-Supported Dirhodium (II) Catalysts with High Catalytic Efficiency in Cyclopropanation – A structural study” 5.721
 http://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy00915h#!divAbstract
 
 8)	C. Presti,  **_A. S. Lilly Thankamony_**, J. G. Alauzun, P. H. Mutin, D Carneval, C. Lion, H. Vezin, D. Laurencin, O. Lafon, J. Phys. Chem. C, (2015), 119 (22), 12408–12422 "NMR and EPR characterization of functionalized nanodiamonds"
 http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b02171
 
-9)	M. Werner, A. Heil, N. Rothermel, H. Breitzke, P. B. Groszewicz, A. S. Lilly    Thankamony, T. Gutmann, G. Buntkowsky, S. S. NMR  72, (2015), 73–78 
+9)	M. Werner, A. Heil, N. Rothermel, H. Breitzke, P. B. Groszewicz, **_A. S. Lilly Thankamony_**, T. Gutmann, G. Buntkowsky, S. S. NMR  72, (2015), 73–78 
 	"Synthesis and Solid State NMR Characterization of Novel Peptide/Silica Hybrid Materials" 
      http://www.sciencedirect.com/science/article/pii/S0926204015300217
 
