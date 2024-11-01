@@ -3,13 +3,13 @@
 1)	M. Brodrecht, B. Kumari, **_A.S. Lilly Thankamony_**, H. Breitzke, T. Gutmann* G. Buntkowsky, Structural insights into peptides bound to the surface of silica nanopores, Chemistry Eur. J. 25, (2019), 5214 –5221, 
 https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201805480
 
-2)	A.S. Lilly Thankamony, J. Wittmann, M. Kaushik, B. Corzilius, Dynamic nuclear polarization for sensitivity enhancement in modern solid-state NMR, Prog. Nucl. Magn. Reson. Spec., (2017) 102–103, 120–195
+2)	**A.S. Lilly Thankamony**__, J. Wittmann, M. Kaushik, B. Corzilius, Dynamic nuclear polarization for sensitivity enhancement in modern solid-state NMR, Prog. Nucl. Magn. Reson. Spec., (2017) 102–103, 120–195
 https://www.sciencedirect.com/science/article/pii/S0079656517300201
 
-3)	 A.S. Lilly Thankamony, S. Knoche, A. Drochner, A- Pandurang Jagtap, S. Th. Sigurdsson, H. Vogel, B.J.M. Etzold, T. Gutmann, Gerd Buntkowsky, J.Phys.Chem. C, (2017), 121, 20857–20864 “Characterization of V-Mo-W Mixed Oxide Catalyst Surface Species by 51V Solid-State Dynamic Nuclear Polarization NMR” 4.189
+3)	 **A.S. Lilly Thankamony**__, S. Knoche, A. Drochner, A- Pandurang Jagtap, S. Th. Sigurdsson, H. Vogel, B.J.M. Etzold, T. Gutmann, Gerd Buntkowsky, J.Phys.Chem. C, (2017), 121, 20857–20864 “Characterization of V-Mo-W Mixed Oxide Catalyst Surface Species by 51V Solid-State Dynamic Nuclear Polarization NMR” 4.189
 https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06761
 
-4)	H. Nagashima, A. S. Lilly Thankamony, J. Trebosc, F. Pourpoint, O. Lafon, J-P. Amoureux, Solid State Nucl Magn Reson. (2017), 84, 216-226 “gamma-encoded hetero-nuclear correlation between spin-1/2 and quadrupolar nuclei” impact- 1.846 ISSN 0926-2040
+4)	H. Nagashima, **A. S. Lilly Thankamony**__, J. Trebosc, F. Pourpoint, O. Lafon, J-P. Amoureux, Solid State Nucl Magn Reson. (2017), 84, 216-226 “gamma-encoded hetero-nuclear correlation between spin-1/2 and quadrupolar nuclei” impact- 1.846 ISSN 0926-2040
 https://www.ncbi.nlm.nih.gov/pubmed/28666574
 
 5)	J Liu, P. Braga-Groszewicz, Q. Wen, A.S. Lilly Thankamony, B.Zhang, U. Kunz, G. Sauer, Y. Xu, T. Gutmann, G. Buntkowsky, J.Phys.Chem. C, (2017), 121, 17409–17416 Revealing Structure Reactivity Relationships in heterogenized Dirhodium Catalysts by Solid State
